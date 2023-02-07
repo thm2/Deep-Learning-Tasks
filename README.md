@@ -1,5 +1,5 @@
 # Deep-Learning-Tasks
 
-A collection of Deep Learning tasks including Object Detection, Image Generation and GANs, Language Recognition with RNNs and Deep Reinforcement Learning. 
+A collection of Deep Learning tasks including Object Detection, Generative Adversarial Networks, Language Recognition, and Deep Reinforcement Learning.
 
 Datasets include PASCAL VOC and CelebA.
