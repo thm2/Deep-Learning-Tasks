@@ -1,1 +1,3 @@
-*.* linguist-language=Python
+*.Shell  linguist-detectable
+*.Python  linguist-detectable
+*.ipynb  linguist-detectable
