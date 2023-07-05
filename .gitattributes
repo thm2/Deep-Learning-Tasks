@@ -1,3 +1,1 @@
-*.Shell  linguist-detectable
-*.Python linguist-detectable
-*.ipynb  linguist-detectable
+*. linguist-detectable=PYTHON
